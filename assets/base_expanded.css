@@ -870,7 +870,6 @@ p {
 }
 .module-list:before, .module-list:after {
   content: "";
-  display: table;
 }
 .module-list:after {
   clear: both;
@@ -893,7 +892,6 @@ p {
 }
 .module-list-with-image li:before, .module-list-with-image li:after {
   content: "";
-  display: table;
 }
 .module-list-with-image li:after {
   clear: both;
@@ -966,7 +964,6 @@ p {
   }
   .wrapper:after {
     content: "";
-    display: table;
     clear: both;
   }
   .footer-navigation {
@@ -1200,7 +1197,6 @@ p {
   }
   .wrapper:after {
     content: "";
-    display: table;
     clear: both;
   }
   .footer-navigation {
@@ -1449,7 +1445,6 @@ p {
   }
   .wrapper:after {
     content: "";
-    display: table;
     clear: both;
   }
   .footer-navigation {
@@ -1684,7 +1679,6 @@ p {
   }
   .wrapper:after {
     content: "";
-    display: table;
     clear: both;
   }
   .footer-navigation {
@@ -1921,7 +1915,6 @@ p {
   }
   .wrapper:after {
     content: "";
-    display: table;
     clear: both;
   }
   .footer-navigation {
@@ -2154,7 +2147,6 @@ p {
   }
   .wrapper:after {
     content: "";
-    display: table;
     clear: both;
   }
   .footer-navigation {

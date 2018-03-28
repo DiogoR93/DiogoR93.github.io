@@ -1482,7 +1482,7 @@ p {
     margin-right: 0;
   }
   .columns-2 .profile-module {
-    width: 46.42857%;
+    width: 100%;
     float: left;
     margin-right: 7.14286%;
     display: inline;
@@ -1492,7 +1492,7 @@ p {
     margin-right: 0;
   }
   .columns-3 .profile-module {
-    width: 46.42857%;
+    width: 100%;
     float: left;
     margin-right: 7.14286%;
     display: inline;
@@ -1502,7 +1502,7 @@ p {
     margin-right: 0;
   }
   .columns-3 .profile-module .reward-punch-card, .columns-3 .profile-module .reward-first-visit {
-    width: 46.42857%;
+    width: 100%;
     float: left;
     margin-right: 7.14286%;
     display: inline;
@@ -1520,7 +1520,7 @@ p {
     display: inline;
   }
   .profile-logo {
-    width: 48.25175%;
+    width: 100%;
     float: left;
     margin-right: 3.4965%;
     display: inline;
@@ -1529,7 +1529,7 @@ p {
     min-height: 80px;
   }
   .profile-summary {
-    width: 48.25175%;
+    width: 100%;
     float: right;
     margin-right: 0;
     #margin-left: -20px;
@@ -1586,7 +1586,7 @@ p {
     top: 0;
   }
   .has-images .menu-item {
-    height: 323px;
+    height: 1000px;
   }
   .has-images .menu-item:nth-child(-n+2) {
     margin-top: 1.21429em;

@@ -323,7 +323,7 @@ p {
 }
 .profile-content:before, .profile-content:after {
   content: "";
-  display: table;
+  display: inline;
 }
 .profile-content:after {
   clear: both;

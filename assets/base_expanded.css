@@ -1138,7 +1138,7 @@ p {
     padding-bottom: 2.5em;
   }
   .module-column {
-    width: 42.1875%;
+    width: 100%;
     float: left;
     margin-right: 15.625%;
     display: inline;
@@ -1500,6 +1500,12 @@ p {
   .columns-3 .profile-module:nth-child(even) {
     float: right;
     margin-right: 0;
+  }
+  .columns-3 .profile-module .reward-punch-card, .columns-3 .profile-module .reward-first-visit {
+    width: 46.42857%;
+    float: left;
+    margin-right: 7.14286%;
+    display: inline;
   }
   .twitter-columns .profile-module {
     width: 46.42857%;

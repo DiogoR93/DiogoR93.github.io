@@ -1207,7 +1207,7 @@ p {
     width: 30.35714em;
   }
   .menu-item, .business {
-    width: 47.64151%;
+    width: 100%;
     float: left;
     margin-right: 4.71698%;
     display: inline;

@@ -1501,16 +1501,6 @@ p {
     float: right;
     margin-right: 0;
   }
-  .columns-3 .profile-module .reward-punch-card, .columns-3 .profile-module .reward-first-visit {
-    width: 46.42857%;
-    float: left;
-    margin-right: 7.14286%;
-    display: inline;
-  }
-  .columns-3 .profile-module .reward-punch-card:nth-child(2n), .columns-3 .profile-module .reward-first-visit:nth-child(2n) {
-    float: right;
-    margin-right: 0;
-  }
   .twitter-columns .profile-module {
     width: 46.42857%;
     float: left;

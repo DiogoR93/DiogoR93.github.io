@@ -1409,7 +1409,7 @@ p {
     clear: both;
   }
   .module-column:first-child {
-    width: 27.27273%;
+    width: 100%%;
     float: left;
     margin-right: 9.09091%;
     display: inline;
@@ -1431,7 +1431,7 @@ p {
     min-width: 424px;
   }
 }
-@media screen and (min-width: 37.5em) and (max-width: 47.9375em) {
+@media screen and (min-width: 100em) and (max-width: 100em) {
   body:after {
     content: "medium";
   }
@@ -1440,7 +1440,7 @@ p {
   }
   .wrapper {
     *zoom: 1;
-    max-width: 572px;
+    max-width: 1000px;
     _width: 572px;
     padding-left: 0;
     padding-right: 0;
@@ -1456,7 +1456,7 @@ p {
     width: 40.85714em;
   }
   .menu-item, .business {
-    width: 48.25175%;
+    width: 100%;
     float: left;
     margin-right: 3.4965%;
     display: inline;

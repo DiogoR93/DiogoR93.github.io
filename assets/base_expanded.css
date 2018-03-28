@@ -131,9 +131,9 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 }
 
 * {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
+  -webkit-box-sizing: 700px;
+  -moz-box-sizing: 700px;
+  box-sizing: 700px;
 }
 html {
   background: #f4f5f6;

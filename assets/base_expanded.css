@@ -789,10 +789,10 @@ p {
   display: block;
 }
 .menu-item-variations .menu-item-price {
-  display: inline-block;
+  display: inline;
 }
 .has-images .menu-item:hover .menu-item-price {
-  display: inline-block;
+  display: inline;
 }
 .menu-item-price-range {
   color: #72b16e;

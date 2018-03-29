@@ -1688,7 +1688,7 @@ p {
     white-space: nowrap;
   }
   .menu-item, .business {
-    width: 31.52909%;
+    width: 100%;
     float: left;
     margin-right: 2.70636%;
     display: inline;
@@ -2156,7 +2156,7 @@ p {
     white-space: nowrap;
   }
   .menu-item, .business {
-    width: 23.71223%;
+    width: 100%;
     float: left;
     margin-right: 1.71703%;
     display: inline;
